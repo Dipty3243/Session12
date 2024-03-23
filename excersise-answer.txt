@@ -1,0 +1,8 @@
+
+Here, the mean, minimum, maximum, and median values--
+relative_humidity=Average--> 87.901387  Min--> 61.0   Max--> 100.0    Median--> 89.0
+temperature_average=Average--> 2.740029  Min--> -8.4    Max--> 10.9     Median--> 2.8
+wind_speed=Average--> 3.900717    MIN--> 0.4    Max--> 10.3     Median--> 3.7
+precipitation_amount=0.0
+pressure_average=Average--> 1012.634146  Min--> 977.3  Max--> 1032.6  Median--> 1013.7
+
